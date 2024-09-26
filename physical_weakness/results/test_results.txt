@@ -1,0 +1,48 @@
+
+	Welch Two Sample t-test
+
+data:  Weight by Frailty
+t = -2.1965, df = 5.6653, p-value = 0.0731
+alternative hypothesis: true difference in means between group  N and group  Y is not equal to 0
+95 percent confidence interval:
+ -31.420066   1.920066
+sample estimates:
+mean in group  N mean in group  Y 
+          126.00           140.75 
+
+
+	Welch Two Sample t-test
+
+data:  Height by Frailty
+t = -0.62423, df = 7.9205, p-value = 0.55
+alternative hypothesis: true difference in means between group  N and group  Y is not equal to 0
+95 percent confidence interval:
+ -2.937878  1.687878
+sample estimates:
+mean in group  N mean in group  Y 
+          68.350           68.975 
+
+
+	Welch Two Sample t-test
+
+data:  Grip_Strength by Frailty
+t = 1.635, df = 7.8169, p-value = 0.1416
+alternative hypothesis: true difference in means between group  N and group  Y is not equal to 0
+95 percent confidence interval:
+ -1.734052 10.067386
+sample estimates:
+mean in group  N mean in group  Y 
+        27.66667         23.50000 
+
+
+	Welch Two Sample t-test
+
+data:  Age by Frailty
+t = 0.23787, df = 6.6188, p-value = 0.8192
+alternative hypothesis: true difference in means between group  N and group  Y is not equal to 0
+95 percent confidence interval:
+ -18.87091  23.03757
+sample estimates:
+mean in group  N mean in group  Y 
+        33.33333         31.25000 
+
